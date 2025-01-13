@@ -1,3 +1,4 @@
+#Это мой первый проект на GitHub
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QPushButton, QApplication, QVBoxLayout, QHBoxLayout, QWidget, QLabel, QLineEdit, QListWidget, QTextEdit, QInputDialog
 import json
